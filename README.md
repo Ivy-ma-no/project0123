@@ -1,4 +1,4 @@
-# project0123
+# project 01/23
 -------------------------------------
 App to allow user signup + login
 
@@ -6,8 +6,11 @@ Discord: https://discord.gg/ETwknygd
 -----------------------------------
 
 Challenges:
+
 Implement vue router
+
 Authorization system: JWT
+
 Password validation
 
 --------
