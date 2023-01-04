@@ -13,18 +13,25 @@ Password validation
 --------
 Phase 1
 -------
+
 Views:
+
 HOME 
+
 -> button register  -> Register form -> Back to HOME
+
 -> button login ->  Login form  ->  User profile page (show username)
+
 (-> button forgotten password -> Reset by MAIL (phpmailer)  ?)
 
 PHP Classes:
+
 User - > 
-  nickname
-  email
-  date created
-  last login
+
+ - nickname
+ - email
+ - date created
+ - last login
   
 -------
 
