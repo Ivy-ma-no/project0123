@@ -18,7 +18,6 @@ Password validation
 --------
 Phase 1
 -------
-## Project Setup
 
 Views:
 
