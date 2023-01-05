@@ -21,8 +21,6 @@ Phase 1
 
 Views:
 
-```
-
 HOME 
 
 -> button register  -> Register form -> Back to HOME
