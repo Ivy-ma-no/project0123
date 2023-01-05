@@ -1,50 +1,41 @@
-# project 01/23
--------------------------------------
-App to allow user signup + login
+# vueRouter
 
-Discord: https://discord.gg/ETwknygd
------------------------------------
+This template should help get you started developing with Vue 3 in Vite.
 
-Challenges:
+## Recommended IDE Setup
 
-Implement vue router
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-Authorization system: JWT
+## Customize configuration
 
-Password validation
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
---------
-Phase 1
--------
+## Project Setup
 
-Views:
+```sh
+npm install
+```
 
-HOME 
+### Compile and Hot-Reload for Development
 
--> button register  -> Register form -> Back to HOME
+```sh
+npm run dev
+```
 
--> button login ->  Login form  ->  User profile page (show username)
+### Compile and Minify for Production
 
-(-> button forgotten password -> Reset by MAIL (phpmailer)  ?)
+```sh
+npm run build
+```
 
-PHP Classes:
+### Run Unit Tests with [Vitest](https://vitest.dev/)
 
-User - > 
+```sh
+npm run test:unit
+```
 
- - nickname
- - email
- - date created
- - last login
-  
--------
+### Lint with [ESLint](https://eslint.org/)
 
-
-STACK:
-------
-vue.js
-Bootstrap 5
-
-PHP 8.0
-MySQL 8.0
-
-Docker
+```sh
+npm run lint
+```
